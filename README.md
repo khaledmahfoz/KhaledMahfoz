@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Khaled Mahfoz  
 
-<!--
-**khaledmahfoz/KhaledMahfoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Senior Software Developer** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a senior software developer with experience in building and maintaining large-scale applications. 
+I specialize in modern JavaScript technologies, with a strong understanding of both front-end and back-end development. 
+
+I work on complex systems, applying best practices to ensure scalability, performance, and maintainability. 
+I am proficient in adopting new technologies and frameworks, integrating them into projects, and optimizing workflows to meet evolving business needs. 
+
+My expertise extends to microservices, state management, and creating reusable, modular components, and I’m skilled at guiding teams to ensure efficient project delivery.
+
+## 🛠️ Tech Stack  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+## 📫 Contact Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-mahfoz-1b4b3a18b/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledmahfoz20@gmail.com)  
+
+⚡ Always learning & pushing boundaries in tech! 🚀  
