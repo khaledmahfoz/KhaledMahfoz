@@ -1,8 +1,5 @@
 # 👋 Hey, I'm Khaled Mahfoz  
 
-💻 **Senior Software Developer** 
-
-
 I am a senior software developer with experience in building and maintaining large-scale applications. 
 I specialize in modern JavaScript technologies, with a strong understanding of both front-end and back-end development. 
 
